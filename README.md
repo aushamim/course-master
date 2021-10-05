@@ -9,4 +9,4 @@
 - - You will get a **Certificate** at the end of a course.
 - - You will also receive a **Badge** to show off in your profile.
 
-## [Live Site](https://course-master-a9.netlify.app/){:target="\_blank"}
+## Live Site: https://course-master-a9.netlify.app/

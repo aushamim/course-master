@@ -1,0 +1,16 @@
+.rating-clr {
+  color: rgb(250, 207, 99);
+}
+.card-img {
+  height: 285px;
+  border-top-left-radius: 15px !important;
+  border-top-right-radius: 15px !important;
+}
+.card-style {
+  border-radius: 15px !important;
+}
+.card-style:hover {
+  box-shadow: 4px 4px 10px gray;
+  border-radius: 15px;
+  outline: 3px solid rgb(17, 17, 17);
+}
